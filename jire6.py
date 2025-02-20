@@ -17,7 +17,7 @@ est_time = current_utc_time.astimezone(timezone_est).strftime("%d %b %Y %H:%M:%S
 # JIRA Credentials (Replace with actual API token)
 JIRA_URL = "https://thenameishari.atlassian.net/"
 JIRA_EMAIL = "hariromil@gmail.com"
-JIRA_API_TOKEN = "ATATT3xFfGF0cq2noYu8eg5zlBQ7V8Dd9VrQ3KFqI1dHnyMRqGVhquqzis4I4o758RSTMXshPcNa0ixUm10SzlICENerAwHap51K4No9MLQdMu_5eMly8QP1HpsU5d9i-QyyY1kAoCeufgY-hUS_buQLfbc2NlFM0vfu0cqZ1pRO7BCzvOVemYs=71DD7E95"
+JIRA_API_TOKEN = ""
 
 st.title("JIRA Bug Tracking & Reporting")
 
